@@ -8,4 +8,5 @@ Following versions will make it work properly and is tested.
 
 ## Additional Settings
 In Cmd, go to properties add font to MesloLGS NF and font size 16.
+
 In Cmder, go to Settings > General > Fonts and set `Main console font` to Fira Code, `Size` 18 and `Alternative font` to FiraCode Nerd Font
