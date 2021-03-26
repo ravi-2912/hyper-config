@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		528,
+		16
+	],
+	"windowSize": [
+		924,
+		701
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hyper-monokai\",\"hyper-tab-icons\",\"hyper-statusline\",\"hypercwd\",\"hyper-alt-click\",\"hyperlinks\",\"gitrocket\",\"space-pull\",\"hyperterm-safepaste\",\"hyper-statusline-extended\",\"hyper-pane\",\"hyper-yes\",\"hyper-dark-scrollbar\",\"hyper-highlight-active-pane\",\"hyper-font-ligatures\",\"hyperborder\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hyper-monokai\",\"1.0.2\"],[\"hyper-tab-icons\",\"2.1.0\"],[\"hyper-statusline\",\"1.7.6\"],[\"hypercwd\",\"1.4.0\"],[\"hyper-alt-click\",\"0.1.1\"],[\"hyperlinks\",\"0.5.0\"],[\"gitrocket\",\"1.0.6\"],[\"space-pull\",\"1.0.13\"],[\"hyperterm-safepaste\",\"2.0.1\"],[\"hyper-statusline-extended\",\"1.1.6\"],[\"hyper-pane\",\"2.1.5\"],[\"hyper-yes\",\"0.1.0\"],[\"hyper-dark-scrollbar\",\"1.2.4\"],[\"hyper-highlight-active-pane\",\"0.1.0\"],[\"hyper-font-ligatures\",\"0.0.8\"],[\"hyperborder\",\"1.2.0\"]]"
+	}
+}
